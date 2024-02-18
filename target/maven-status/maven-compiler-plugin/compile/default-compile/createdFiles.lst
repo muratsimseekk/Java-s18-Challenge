@@ -1,1 +1,16 @@
+com/workintech/crudchallenge/S18ChallengeProject/controller/AuthorController.class
+com/workintech/crudchallenge/S18ChallengeProject/service/BookServiceImpl.class
+com/workintech/crudchallenge/S18ChallengeProject/entity/Category.class
+com/workintech/crudchallenge/S18ChallengeProject/service/AuthorService.class
 com/workintech/crudchallenge/S18ChallengeProject/S18ChallengeProjectApplication.class
+com/workintech/crudchallenge/S18ChallengeProject/repository/BookRepository.class
+com/workintech/crudchallenge/S18ChallengeProject/service/AuthorServiceImpl.class
+com/workintech/crudchallenge/S18ChallengeProject/entity/Book.class
+com/workintech/crudchallenge/S18ChallengeProject/controller/CategoryController.class
+com/workintech/crudchallenge/S18ChallengeProject/repository/AuthorRepository.class
+com/workintech/crudchallenge/S18ChallengeProject/repository/CategoryRepository.class
+com/workintech/crudchallenge/S18ChallengeProject/entity/Author.class
+com/workintech/crudchallenge/S18ChallengeProject/controller/BookController.class
+com/workintech/crudchallenge/S18ChallengeProject/service/BookService.class
+com/workintech/crudchallenge/S18ChallengeProject/service/CategoryService.class
+com/workintech/crudchallenge/S18ChallengeProject/service/CategoryServiceImpl.class

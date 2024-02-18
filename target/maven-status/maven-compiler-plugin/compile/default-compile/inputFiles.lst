@@ -1,1 +1,16 @@
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/controller/AuthorController.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/CategoryService.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/AuthorServiceImpl.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/BookServiceImpl.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/BookService.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/repository/BookRepository.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/repository/CategoryRepository.java
 /Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/S18ChallengeProjectApplication.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/repository/AuthorRepository.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/CategoryServiceImpl.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/controller/CategoryController.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/service/AuthorService.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/entity/Category.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/entity/Author.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/entity/Book.java
+/Users/muratsimsek/Workintech/s18/Java-s18-Challenge/src/main/java/com/workintech/crudchallenge/S18ChallengeProject/controller/BookController.java
